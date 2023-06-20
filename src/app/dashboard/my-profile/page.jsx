@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "MyProfile - Dashboard | Learn NextJs",
+  description: "asdjkasdlkjasd",
+};
 const page = () => {
   return (
     <div>

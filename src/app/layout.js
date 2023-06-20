@@ -13,13 +13,13 @@ export const metadata = {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <nav>
+        {/* <nav>
             <Navbar></Navbar>
-        </nav>
+        </nav> */}
         {children}
-        <footer>
+        {/* <footer>
 
-        </footer>
+        </footer> */}
         </body>
     </html>
   )

@@ -1,13 +1,13 @@
+import Sidebar from "@/components/Shared/Sidebar/Sidebar";
+
 export const metadata = {
     title: "Dashboard | Learn NextJs",
     description: 'asdjkasdlkjasd'
 }
 const DashboardLayout = ({children}) => {
     return (
-        <div>
-            <aside>
-                Sidebar
-            </aside>
+        <div className="flex container  mx-auto">
+            <Sidebar></Sidebar>
             {children}
         </div>
     );

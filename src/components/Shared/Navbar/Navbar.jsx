@@ -26,7 +26,7 @@ const navLinks = [
 const Navbar = () => {
   return (
     <nav className="container p-5 bg-[green] flex justify-between items-center mx-auto">
-      <h1 className="text-3xl text-[white] font-semibold">Learn Nextjs</h1>
+      <h1 className="lg:text-3xl text-[white] font-semibold">Learn Nextjs</h1>
       <ul className="flex justify-between items-center ">
         {navLinks.map(({ path, title }) => (
           <li className="mx-5" key={path}>

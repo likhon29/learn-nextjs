@@ -3,52 +3,52 @@
     {
       "id": 1,
       "name": "Electronics",
-      "imageUrl": "https://example.com/electronics.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/modern-stationary-collection-arrangement_23-2149309643.jpg?w=1060&t=st=1687540511~exp=1687541111~hmac=5c75ad94e83cb3fee0749b2039374a07ab7084a7ea3b064f60bfcd57d3433178"
     },
     {
       "id": 2,
       "name": "Clothing",
-      "imageUrl": "https://example.com/clothing.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448751.jpg?w=1060&t=st=1687540465~exp=1687541065~hmac=d71b9d2c99caad1379956e0f43b315c589d7758b6919e969deb757bbf188fd4b"
     },
     {
       "id": 3,
       "name": "Books",
-      "imageUrl": "https://example.com/books.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=360"
     },
     {
       "id": 4,
       "name": "Home Decor",
-      "imageUrl": "https://example.com/home-decor.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?w=996&t=st=1687540558~exp=1687541158~hmac=c10e5df4f790d8b18c358f77bb8ff7e4bd5aeb4f870ce90ed5274849c0e0536e"
     },
     {
       "id": 5,
       "name": "Sports",
-      "imageUrl": "https://example.com/sports.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=740&t=st=1687543930~exp=1687544530~hmac=025c6d35a42b90aa5d4dd61406bc3c7f4d6ee03988b101636ac61db2d6ec9885"
     },
     {
       "id": 6,
       "name": "Beauty",
-      "imageUrl": "https://example.com/beauty.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/cosmetic-wreath-design-with-eyelash-curler-eyeliner-brush_83728-1850.jpg?w=740&t=st=1687544069~exp=1687544669~hmac=48749de570fe61f4a914e395c4fbf5afe173772566905b1e2658e2753af5ae66"
     },
     {
       "id": 7,
       "name": "Toys",
-      "imageUrl": "https://example.com/toys.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/fluffy-toy-texture-close-up_23-2149686884.jpg?w=1060&t=st=1687544090~exp=1687544690~hmac=eb832fec017e452f7102d8ff9871df2e587c4c3c2d09fab44eb11fbb8d8fc2dc"
     },
     {
       "id": 8,
       "name": "Automotive",
-      "imageUrl": "https://example.com/automotive.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/mechanic-hand-checking-fixing-broken-car-car-service-garage_146671-19718.jpg?w=1060&t=st=1687544128~exp=1687544728~hmac=fb2562df4f376ecd43153a1b68ba1042ac9faaba577e009b43a526377be6fb0d"
     },
     {
       "id": 9,
       "name": "Jewelry",
-      "imageUrl": "https://example.com/jewelry.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/golden-jewelry-store-window_1398-4127.jpg?w=1060&t=st=1687544179~exp=1687544779~hmac=cbe8bbb170c93d0cb63dbe04133c9c5ab6c71ccf5d7a4aab0a622a3b92ea89f2"
     },
     {
       "id": 10,
       "name": "Kitchenware",
-      "imageUrl": "https://example.com/kitchenware.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?w=996&t=st=1687540558~exp=1687541158~hmac=c10e5df4f790d8b18c358f77bb8ff7e4bd5aeb4f870ce90ed5274849c0e0536e"
     }
   ],
   "products": [

@@ -4,10 +4,14 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "cdn.pixabay.com",
+        hostname: "img.freepik.com/**",
+      },
+      {
+        protocol: "https",
+        hostname: "example.com",
       },
     ],
   },
 };
 
-module.exports = nextConfig
+module.exports = nextConfig;

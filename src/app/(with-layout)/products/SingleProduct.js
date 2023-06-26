@@ -25,8 +25,8 @@ const SingleProduct = ({ product }) => {
               
               <button className="btn btn-primary">Show Details</button>
             </Link>
-            <div className="badge badge-outline">Fashion</div>
-            <div className="badge badge-outline">Products</div>
+            {/* <div className="badge badge-outline">Fashion</div>
+            <div className="badge badge-outline">Products</div> */}
           </div>
         </div>
       </div>

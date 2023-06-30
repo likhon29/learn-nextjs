@@ -13,7 +13,7 @@ const HomePage = () => {
       </div>
       <Suspense
         fallback={
-          <h1 className="text-center font-semibold text-2xl">Loading...</h1>
+          <h1 className="text-center font-semibold text-2xl">Loading....</h1>
         }
       >
         <PopularProducts></PopularProducts>
